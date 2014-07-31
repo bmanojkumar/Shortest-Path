@@ -1,0 +1,810 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>Distance from Bhagalpur, Bhagalpur Distance Chart</TITLE>
+
+<META NAME="Description" CONTENT="Bhagalpur, Bihar, India, Distances from Bhagalpur to major Cities and Towns of India in kms.">
+
+<META NAME="Keywords" CONTENT="Distance from Bhagalpur, Bhagalpur, Bihar, India, Distances, Distance Charts, Cities, Towns">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+  <script language="JavaScript" src="http://www.mapsofindia.com/js_2009/style.js" type="text/Javascript"></script>
+    <script language="JavaScript" src="distances.js" type="text/Javascript"></script>
+    <style type="text/css" media="screen">
+		@import 'style-new-hotel.css';
+	</style>
+	<script type='text/javascript'>
+<!--// <![CDATA[
+  var OA_channel = '/mumbai';
+// ]]> -->
+</script>
+<script language="JavaScript" src="http://www.mapsofindia.com/js_2009/openx.js" 
+type="text/Javascript"></script>
+ <script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.defineSlot('/5535731/MOI_Common_BoxAD', [336, 280], 'div-gpt-ad-1378116060310-0').addService(googletag.pubads());
+googletag.defineSlot('/5535731/MOI_Common_Skyscrper', [160, 600], 'div-gpt-ad-1378116060310-1').addService(googletag.pubads());
+googletag.defineSlot('/5535731/MOI_Common_TopAd', [728, 90], 'div-gpt-ad-1378116060310-2').addService(googletag.pubads());
+googletag.defineSlot('/5535731/MOI_new_below_h1_ad_728*90', [728, 90], 'div-gpt-ad-1378116060310-3').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+<script type='text/javascript'>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-22494977-1']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<link href="http://www.mapsofindia.com/includes/widget/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.mapsofindia.com/includes/widget/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.mapsofindia.com/includes/widget/jquery.jcarousel.min.js"></script>
+
+</head>
+ <body>
+  <div  class="main">
+	<div  class="header_container">
+<div  class="logo" title="Maps of India">
+<a href="http://www.mapsofindia.com/india/india.html" id="link1"></a>
+<a href="http://www.mapsofindia.com/maps/india/india-political-map.htm" id="link2"></a>
+<a href="http://www.mapsofindia.com/india.html" id="link3"></a>
+<a href="http://www.mapsofindia.com/" id="link4"></a>
+</div>
+		<div  class="ad_div">
+			<!-- TF 728x90 JScript VAR code -->
+			<script language="JavaScript" type="text/javascript">
+							<!--
+								headeradd728x90();
+							//-->
+							</script>
+			<!-- TF 728x90 JScript VAR code -->
+		</div>
+	</div>
+  </div>
+  <div  class="main">
+	<script language="JavaScript" type="text/javascript">
+	<!--
+		tab_link();
+	//-->
+	</script>
+  </div>
+  <div  class="main">
+		<div  class="navigation"><a href="http://www.mapsofindia.com/" title="Home" >Home</a> &raquo; <a href="http://www.mapsofindia.com/distances/" title="Distance Chart" >Distance Chart</a> &raquo; Distance from Bhagalpur</div>
+	<div class="google_search">
+	<table cellpadding="5">
+		<tr>
+			<td>
+			<script language="JavaScript" type="text/javascript">
+				<!--
+					google_search();
+				//-->
+			</script>
+	</td>
+			<td>
+			<!-- AddThis Button BEGIN -->
+			<script type="text/javascript">addthis_pub  = 'mapsofindia.com';</script>
+			<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="" /></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+			<!-- AddThis Button END -->
+	</td>
+		</tr>
+	</table>
+</div>
+  </div>
+
+  <div  class="main">
+  <table cellspacing="0" cellpadding="0" border="0" width="100%">
+	<tr>
+		<td valign="top" width="11"><img src="http://www.mapsofindia.com/images2009/top-L-curve-base.gif" width="11" height="10" alt="" /></td>
+		<td class="grey_bg">&nbsp;</td>
+		<td valign="top" width="11"><img src="http://www.mapsofindia.com/images2009/top-R-curve-base.gif" width="11" height="10" alt="" /></td>
+	</tr>
+  </table>
+  </div>
+  <div  class="main">
+	<div  class="grey_bg1">
+<!-- 	left panel starts -->
+		<div id="left-panel" >
+		<script type='text/javascript'><!--
+google_ad_client = 'ca-pub-8993220319430392';
+/* MOI_Flight_LinkUnit */
+google_ad_slot = '8169807453';
+google_ad_width = 160;
+google_ad_height = 90;
+//-->
+</script>
+<script type='text/javascript'
+src='http://pagead2.googlesyndication.com/pagead/show_ads.js'>
+</script>
+<div style="float:left;padding-right:5px;">
+<SCRIPT LANGUAGE="JavaScript" type="text/javascript">
+<!--
+listings();
+//-->
+</SCRIPT>
+</div>
+			<div  class="left_blue_bg">
+				<div  class="left_blue_curve"></div>
+				<div  class="nav_head">
+					<a href="http://www.mapsofindia.com/general/" title="Maps of India">Maps of India</a>
+				</div> 
+				<div  class="right_blue_curve"></div>
+			</div>
+			<div  class="left_links_container">
+					<div  class="left_links">
+						<ul>
+							<li><a href="http://www.mapsofindia.com/maps/india/india-political-map.htm" title="Map of India">Map of India</a></li>
+							<li><a href="http://www.mapsofindia.com/maps/india/physical-map.html" title="Physical Map of India">Physical Map of India</a></li>
+							<li><a href="http://www.mapsofindia.com/maps/india/outlinemapofindia.htm" title="Outline Map of India">Outline Map of India</a></li>
+						</ul>
+						<div  class="more">
+							<a href="http://www.mapsofindia.com/general/" title="More">more...</a>
+						</div>
+					</div>
+				<div  class="nav_head1">
+					<a href="http://www.mapsofindia.com/reference-maps/" title="India Maps And Views">India Maps And Views </a>
+				</div>
+				<div  class="left_links">
+						<ul>
+							<li><a href="http://www.mapsofindia.com/geography/" title="India Geography">India Geography</a></li>
+							<li><a href="http://www.mapsofindia.com/history/" title="History of India">History of India</a></li>
+							<li><a href="http://www.mapsofindia.com/census/" title="India Census Maps">India Census Maps</a></li>
+							<li><a href="http://www.mapsofindia.com/economy/" title="Business and Economy">Business and Economy</a></li>
+							<li><a href="http://www.mapsofindia.com/culture/" title="India Culture">India Culture</a></li>
+						</ul>
+						<div  class="more">
+							<a href="http://www.mapsofindia.com/reference-maps/" title="More">more...</a>
+						</div>
+					</div>
+					<div  class="nav_head1">
+					<a href="http://www.mapsofindia.com/infrastructure/" title="Transport Network In India">Transport Network In India </a>
+				</div>
+				<div  class="left_links">
+						<ul>
+							<li><a href="http://www.mapsofindia.com/roads/" title="Road Map of India">Road Map of India</a></li>
+							<li><a href="http://www.mapsofindia.com/railways/" title="India Rail Network">India Rail Network</a></li>
+							<li><a href="http://www.mapsofindia.com/air-network/" title="Air Network in India">Air Network in India</a></li>
+                            <li><a href="http://www.mapsofindia.com/water/" title="Ports in India &amp; waterways">Ports in India &amp; waterways</a></li>
+
+						</ul>
+						<div  class="more">
+							<a href="http://www.mapsofindia.com/infrastructure/" title="More">more...</a>
+						</div>
+					</div>
+					<div  class="nav_head1">
+					<a href="http://www.mapsofindia.com/tourism/" title="India Travel">India Travel </a>
+				</div>
+				<div  class="left_links">
+						<ul>
+							<li><a href="http://www.mapsofindia.com/hotels-india/" title="Hotels in India">Hotels in India</a></li>
+							<li><a href="http://www.mapsofindia.com/maps/india/religious-places.htm" title="Temples in India">Temples in India</a></li>
+							<li><a href="http://www.mapsofindia.com/maps/india/hill-stations.htm" title="Hill Stations">Hill Stations</a></li>
+						</ul>
+						<div  class="more">
+							<a href="http://www.mapsofindia.com/tourism/" title="More">more...</a>
+						</div>
+					</div>
+					<div  class="nav_head1">
+					<a href="http://www.mapsofindia.com/states/" title="India States &amp; Union Territories">India States &amp; Union Territories</a>
+				</div>
+				<div  class="left_links">
+						<ul>
+							<li><a href="http://www.mapsofindia.com/stateprofiles/">State Profiles</a></li>
+<li><a href="http://www.mapsofindia.com/kerala/">Kerala</a></li>
+<li><a href="http://www.mapsofindia.com/goa/">Goa</a></li>
+<li><a href="http://www.mapsofindia.com/gujarat/">Gujarat</a></li>
+<li><a href="http://www.mapsofindia.com/rajasthan/">Rajasthan</a></li>
+
+						</ul>
+						<div  class="more">
+							<a href="http://www.mapsofindia.com/states/" title="More">more...</a>
+						</div>
+					</div>
+					<div  class="nav_head1">
+					<a href="http://www.mapsofindia.com/maps/cities/" title="Cities Of India">Cities Of India</a>
+				</div>
+				<div  class="left_links">
+						<ul>
+							<li><a href="http://www.mapsofindia.com/top-ten-cities-of-india/" title="Top 10 Cities of India">Top 10 Cities of India</a></li>
+							<li><a href="http://www.mapsofindia.com/maps/karnataka/bangalore-map.htm" title="Bangalore">Bangalore</a></li>
+							<li><a href="http://www.mapsofindia.com/maps/mumbai/" title="Mumbai">Mumbai</a></li>
+							<li><a href="http://www.mapsofindia.com/maps/tamilnadu/chennai-map.htm" title="Chennai">Chennai</a></li>
+						</ul>
+						<div  class="more">
+							<a href="http://www.mapsofindia.com/india-locations/" title="More">more...</a>
+						</div>
+					</div>
+					<div  class="nav_head1">
+					<a href="http://www.mapsofindia.com/driving-directions-maps/" title="Driving Direction Maps">Driving Direction Maps </a>
+				</div>
+				<div  class="left_links">
+						<ul>
+							<li><a href="http://www.mapsofindia.com/maps/india/national-highway.htm" title="National Highways">National Highways</a></li>
+							<li><a href="http://www.mapsofindia.com/maps/pocketmaps/" title="Intra City Maps">Intra City Maps</a></li>
+							
+						</ul>
+						<div  class="more">
+							<a href="http://www.mapsofindia.com/roads/" title="More">more...</a>
+						</div>
+					</div>
+			
+					<div  class="nav_head1">
+					<a href="http://www.mapsofindia.com/worldmap/" title="World Map">World Map </a>
+				</div>
+
+						
+
+					<div  class="nav_head1">
+					<a href="http://www.mapsofindia.com/high-resolution-maps.html" title="Product &amp; Services">Product &amp; Services </a>
+				</div>
+
+				<div  class="left_links">
+						<ul>
+							<li><a href="http://www.mapsofindiacd.com/about_moi_cd.html" title="Maps of India CD">Maps of India CD</a></li>
+							<li><a href="http://www.mapsofindia.com/custom-maps/" title="Custom Mapping">Custom Mapping</a></li>
+							<li><a href="http://www.mapsofindia.com/location-locator/" title="Location Locator  Solutions">Location Locator  Solutions</a></li>
+						</ul>
+						<div  class="more">
+							<a href="http://www.mapsofindia.com/high-resolution-maps.html" title="More">more...</a>
+						</div>
+
+					</div>	
+
+									<div  class="nav_head1">
+					<a href="#" title="Our Channels">Our Channels </a>
+				</div>
+
+				<div  class="left_links">
+						<ul>
+							
+							<li><a href="http://automobiles.mapsofindia.com/" title="India Automobiles">India Automobiles</a></li>
+							<li><a href="http://www.mapsofindia.com/cricket/" title="Live Cricket Score">Live Cricket Score</a></li>
+							<li><a href="http://www.mapsofindia.com/maps/mapinnews/" title="India News">India News</a></li>
+
+						</ul>
+						
+
+					</div>	
+
+
+							<div  class="nav_head1">
+					<a href="http://www.mapsofindia.com/indien-karten/" title="Indien Karten">Indien Karten  </a>
+				</div>
+
+				<div  class="left_links">
+						<ul>
+							<li><a href="http://www.mapsofindia.com/indien-karten/goa/" title="Karten von Goa">Karten von Goa</a></li>
+							<li><a href="http://www.mapsofindia.com/indien-karten/kerala/" title="Landkarten von Kerala">Landkarten von Kerala</a></li>
+							<li><a href="http://www.mapsofindia.com/indien-karten/rajasthan/" title="Landkarten von Rajasthan">Landkarten von Rajasthan</a></li>
+						</ul>
+						<div  class="more">
+							<a href="http://www.mapsofindia.com/indien-karten/indien/" title="More">more...</a>
+						</div>
+
+					</div>	
+
+			</div>
+
+			<table cellspacing="0" cellpadding="0" border="0" width="100%">
+				<tr>
+					<td width="10" class="left_round_corner">&nbsp;</td>
+					<td class="round_corner_border">&nbsp;</td>
+					<td width="10" class="right_round_corner">&nbsp;</td>
+				</tr>
+			</table>
+			
+			
+		</div>
+	<!-- 	left panel Ends -->	
+	<!-- 	Side panel starts -->	
+	<div id="content-main">
+		<div  class="content-panel">
+		<table cellspacing="0" cellpadding="0" border="0" width="100%">
+			<tr>
+				<td valign="top" width="10"><img src="http://www.mapsofindia.com/images2009/H1-Lbase.gif" width="10" height="30" alt="" /></td>
+				<td class="header-base"><h1>Distance from Bhagalpur</h1></td>
+				<td valign="top" width="10"><img src="http://www.mapsofindia.com/images2009/H1-R-base.gif" width="10" height="30" alt="" /></td>
+			</tr>
+		</table>
+	</div>
+	<div  class="content-panel1">
+			<!-- MOI_new_below_h1_ad_728*90 -->
+<div id='div-gpt-ad-1378116060310-3' class="below_h1_new_add">
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1378116060310-3');
+</script>
+</div>
+			<div  class="content-panel2">
+			<div  class="image">
+				<table cellspacing="0" cellpadding="0" border="0" align="center" width="98%">
+		<tr>
+		<td class="table_left_corner">&nbsp;</td>
+		<td class="table_head">Distance Chart from Bhagalpur to over Hundreds of Cities & Towns</td>
+		<td class="table_right_corner">&nbsp;</td>
+		</tr>
+		</table>
+
+<table  cellspacing="4" cellpadding="4" border="0" align="center" width="98%" class="link_table">
+				<tr>
+<td align="left"><b>CITY</b></td>
+<td  align="left"><b>DISTANCE (Kms)</b></td>
+<td align="left" ><b>CITY</b></td>
+<td align="left"><b>DISTANCE (Kms)</b></td>
+<td align="left" ><b>CITY</b></td>
+<td align="left"><b>DISTANCE (Kms)</b></td>
+</tr>
+
+
+<tr>
+<td>Agartala</td>
+<td>1610</td>
+<td>Gurgaon</td>
+<td>1216</td>
+<td>Panaji</td>
+<td>2111</td>
+</tr>
+<tr>
+<td>Agra</td>
+<td>1047</td>
+<td>Guwahati</td>
+<td>932</td>
+<td>Paradwip</td>
+<td>670</td>
+</tr>
+<tr>
+<td>Ahmedabad</td>
+<td>1714</td>
+<td>Gwalior</td>
+<td>1039</td>
+<td>Pathankot</td>
+<td>1674</td>
+</tr>
+<tr>
+<td>Aizawl</td>
+<td>1398</td>
+<td>Haldia</td>
+<td>533</td>
+<td>Patna</td>
+<td>235</td>
+</tr>
+<tr>
+<td>Ajmer</td>
+<td>1383</td>
+<td>Hassan</td>
+<td>2363</td>
+<td><a href="http://www.mapsofindia.com/pondicherry/">Pondicherry</a></td>
+<td>2201</td>
+</tr>
+<tr>
+<td>Akola</td>
+<td>1450</td>
+<td>Hissar</td>
+<td>1414</td>
+<td>Porbandar</td>
+<td>2108</td>
+</tr>
+<tr>
+<td>Aligarh</td>
+<td>1067</td>
+<td>Hubli</td>
+<td>2124</td>
+<td>Pune</td>
+<td>2054</td>
+</tr>
+<tr>
+<td>Allahabad</td>
+<td>595</td>
+<td>Hyderabad</td>
+<td>1661</td>
+<td>Purulia</td>
+<td>334</td>
+</tr>
+<tr>
+<td>Ambala</td>
+<td>1390</td>
+<td>Imphal</td>
+<td>1416</td>
+<td>Raipur</td>
+<td>1111</td>
+</tr>
+
+<tr>
+<td>Amritsar</td>
+<td>1645</td>
+<td>Indore</td>
+<td>1443</td>
+<td>Rajkot</td>
+<td>1930</td>
+</tr>
+<tr>
+<td>Asansol</td>
+<td>228</td>
+<td>Jabalpur</td>
+<td>910</td>
+<td>Rameswaram</td>
+<td>2628</td>
+</tr>
+<tr>
+<td>Aurangabad</td>
+<td>1678</td>
+<td>Jaipur</td>
+<td>1252</td>
+<td>Ranchi</td>
+<td>454</td>
+</tr>
+<tr>
+<td>Bhaktiyarpur</td>
+<td>187</td>
+<td>Jaisalmer</td>
+<td>1822</td>
+<td>Ranippettai</td>
+<td>2148</td>
+</tr>
+<tr>
+<td>Bangalore</td>
+<td>2223</td>
+<td>Jalandhar</td>
+<td>1562</td>
+<td>Raurkela</td>
+<td>676</td>
+</tr>
+<tr>
+<td>Barauni</td>
+<td>178</td>
+<td>Jammu</td>
+<td>1651</td>
+<td>Rohtak</td>
+<td>1389</td>
+</tr>
+<tr>
+<td>Barddhaman</td>
+<td>331</td>
+<td>Jamnagar</td>
+<td>2016</td>
+<td>Sagar</td>
+<td>1040</td>
+</tr>
+<tr>
+<td>Bareilly</td>
+<td>1033</td>
+<td>Jamshedpur</td>
+<td>419</td>
+<td>Saharanpur</td>
+<td>1317</td>
+</tr>
+<tr>
+<td>Belgaum</td>
+<td>2188</td>
+<td>Jhansi</td>
+<td>981</td>
+<td>Salem</td>
+<td>2362</td>
+</tr>
+<tr>
+<td>Bellary</td>
+<td>2028</td>
+<td>Jodhpur</td>
+<td>1583</td>
+<td>Sambalpur</td>
+<td>849</td>
+</tr>
+<tr>
+<td>Bhavnagar</td>
+<td>1901</td>
+<td>Jorhat</td>
+<td>1235</td>
+<td>Shahjahanpur</td>
+<td>938</td>
+</tr>
+<tr>
+<td>Bhopal</td>
+<td>1146</td>
+<td>Kakinada</td>
+<td>1388</td>
+<td>Siliguri</td>
+<td>457</td>
+</tr>
+<tr>
+<td>Bhubaneshwar</td>
+<td>801</td>
+<td>Kandla</td>
+<td>2090</td>
+<td>Shillong</td>
+<td>1032</td>
+</tr>
+<tr>
+<td>Bikaner</td>
+<td>1600</td>
+<td>Kanniyakumari</td>
+<td>2719</td>
+<td>Shimla</td>
+<td>1541</td>
+</tr>
+<tr>
+<td>Bilaspur</td>
+<td>1115</td>
+<td>Kanpur</td>
+<td>790</td>
+<td>Shivpuri</td>
+<td>1082</td>
+</tr>
+<tr>
+<td><a href="http://www.mapsofindia.com/kolkata/" >Kolkata</a></td>
+<td>575</td>
+<td>Kochi</td>
+<td>2720</td>
+<td>Silchar</td>
+<td>1258</td>
+</tr>
+<tr>
+<td><a href="http://www.mapsofindia.com/chandigarh/">Chandigarh</a></td>
+<td>1436</td>
+<td>Kohima</td>
+<td>1271</td>
+<td>Solapur</td>
+<td>1838</td>
+</tr>
+<tr>
+<td>Chennai</td>
+<td>2036</td>
+<td>Kolhapur</td>
+<td>2085</td>
+<td>Srinagar</td>
+<td>2074</td>
+</tr>
+<tr>
+<td>Chittardurga</td>
+<td>2156</td>
+<td>Kota</td>
+<td>1368</td>
+<td>Surat</td>
+<td>1908</td>
+</tr>
+<tr>
+<td>Coimbatore</td>
+<td>2527</td>
+<td>Kozhikode</td>
+<td>2578</td>
+<td>Thane</td>
+<td>2018</td>
+</tr>
+<tr>
+<td>Cuttack</td>
+<td>776</td>
+<td>Krishnagiri</td>
+<td>2314</td>
+<td>Thanjavur</td>
+<td>2378</td>
+</tr>
+<tr>
+<td>Dehra Dun</td>
+<td>1352</td>
+<td>Kurnool</td>
+<td>1871</td>
+<td>Thiruvananthapuram</td>
+<td>2744</td>
+</tr>
+<tr>
+<td><a href="http://www.mapsofindia.com/delhi/">Delhi</a></td>
+<td>1250</td>
+<td>Lucknow</td>
+<td>770</td>
+<td>Thrissur</td>
+<td>2641</td>
+</tr>
+<tr>
+<td>Dhanbad</td>
+<td>287</td>
+<td>Ludhiana</td>
+<td>1503</td>
+<td>Tiruchchirappalli</td>
+<td>2352</td>
+</tr>
+<tr>
+<td>Dhule</td>
+<td>1702</td>
+<td>Madurai</td>
+<td>2480</td>
+<td>Tirunelveli</td>
+<td>2634</td>
+</tr>
+<tr>
+<td>Dibrugarh</td>
+<td>1371</td>
+<td>Mangalore</td>
+<td>2452</td>
+<td>Tirupati</td>
+<td>1994</td>
+</tr>
+<tr>
+<td>Dimapur</td>
+<td>1206</td>
+<td>Meerut</td>
+<td>1195</td>
+<td>Tuticorin</td>
+<td>2615</td>
+</tr>
+<tr>
+<td>Dindigul</td>
+<td>2431</td>
+<td>Moradabad</td>
+<td>1129</td>
+<td>Udaipur</td>
+<td>1590</td>
+</tr>
+<tr>
+<td>Durgapur</td>
+<td>268</td>
+<td>Motihari</td>
+<td>437</td>
+<td>Ujjain</td>
+<td>1334</td>
+</tr>
+<tr>
+<td>Ganganagar</td>
+<td>1631</td>
+<td>Mumbai</td>
+<td>2037</td>
+<td>Ulhasnagar</td>
+<td>1992</td>
+</tr>
+<tr>
+<td>Gangtok</td>
+<td>571</td>
+<td>Muzaffarnagar</td>
+<td>1246</td>
+<td>Vadodara</td>
+<td>1766</td>
+</tr>
+<tr>
+<td>Gaya</td>
+<td>297</td>
+<td>Muzaffarpur</td>
+<td>353</td>
+<td>Varanasi</td>
+<td>470</td>
+</tr>
+<tr>
+<td>Ghaziabad</td>
+<td>1179</td>
+<td>Mysore</td>
+<td>2362</td>
+<td>Vijayawada</td>
+<td>1608</td>
+</tr>
+<tr>
+<td>Ghazipur</td>
+<td>466</td>
+<td>Nagpur</td>
+<td>1174</td>
+<td>Vishakhapatnam</td>
+<td>1226</td>
+</tr>
+<tr>
+<td>Gorakhpur</td>
+<td>606</td>
+<td>Nanded</td>
+<td>1552</td>
+<td>Warangal</td>
+<td>1674</td>
+</tr>
+<tr>
+<td>Gulbarga</td>
+<td>1814</td>
+<td>Nashik</td>
+<td>1852</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Guntur</td>
+<td>1640</td>
+<td>Nellore</td>
+<td>1864</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+
+</Table>
+<BR>
+<br />
+								<div class="text">
+<span class="content_heading">Last Updated on : 20/04/2013</span><br /><br />
+								</div>
+
+			 
+					
+				<div  class="ads_div">
+<script language="JavaScript" type="text/javascript">
+<!--
+utilities600x250();
+//-->
+</script>
+</div>
+				</div>
+			</div>
+			<div id="right-panel" >
+<script language="JavaScript" type="text/javascript">
+<!--
+right_top1();
+//-->
+</script> 
+<!-- MOI_Common_Skyscrper -->
+<div id='div-gpt-ad-1378116060310-1'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1378116060310-1');
+</script>
+</div>
+			 
+              <div class="houseads">
+<script type="text/javascript">
+<!-- 
+headeradd160x600();
+//-->
+</script>
+</div>
+			</div>
+				
+			
+		</div>
+		<div  class="content-panel">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%">
+				<tr>
+					<td width="10" class="left_round_corner">&nbsp;</td>
+					<td class="round_corner_border">&nbsp;</td>
+					<td width="10" class="right_round_corner">&nbsp;</td>
+				</tr>
+			</table>
+			<br /><br />
+		</div>		
+	</div>
+	</div>
+	<table cellspacing="0" cellpadding="0" border="0" width="100%">
+				<tr>
+					<td width="11" class="left_round_corner1">&nbsp;</td>
+					<td class="round_corner_border1">&nbsp;</td>
+					<td width="11" class="right_round_corner1">&nbsp;</td>
+				</tr>
+			</table>
+  </div>
+  <div  class="main">
+	<script language="JavaScript" type="text/javascript">
+	<!--
+		bottom_link();
+	//-->
+	</script>
+  </div>
+  <!-- Footer -->
+  <div  class="main">
+    <script language="JavaScript" type="text/javascript">
+    <!--
+		footer();
+    //-->
+    </script>
+  </div>
+  <!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-98f87jYQeyLZ6";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-98f87jYQeyLZ6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-98f87jYQeyLZ6.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast" /></a></noscript>
+<!-- End Quantcast tag -->
+  <!-- Footer -->
+ </body>
+</html>
